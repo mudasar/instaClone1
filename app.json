@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "Insta Gram Clone",
+    "icon": "./assets/arrow.png",
+    "version": "1.0.0",
+    "slug": "insta-gram-clone",
+    "ios": {
+      "bundleIdentifier": "com.latra.insta"
+    },
+    "android": {
+      "package": "com.latra.insta"
+    }
+  }
+}
